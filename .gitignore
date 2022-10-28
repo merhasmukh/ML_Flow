@@ -2,5 +2,5 @@ venv
 .venv
 /venv
 ./venv
-./mlruns
-mlruns
+./mlflow_basic/mlruns
+/mlruns
