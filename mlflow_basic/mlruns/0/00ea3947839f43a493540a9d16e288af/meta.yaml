@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/B0DC86C9DC8688F4/git_hub/ml_flow/mlflow_basic/mlruns/0/00ea3947839f43a493540a9d16e288af/artifacts
+end_time: 1666968154650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 00ea3947839f43a493540a9d16e288af
+run_uuid: 00ea3947839f43a493540a9d16e288af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666968154599
+status: 3
+tags: []
+user_id: hasmukh
