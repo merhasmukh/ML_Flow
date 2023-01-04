@@ -4,9 +4,9 @@ venv
 ./venv
 ./mlflow_basic/mlruns
 ./simple_ml_model/mlruns
-
 ./simple_ml_model_2/mlruns
 ./simple_ml_model_3/mlruns
-
-
+simple_ml_model/mlruns
+simple_ml_model_2/mlruns
+simple_ml_model_3/mlruns
 /mlruns
