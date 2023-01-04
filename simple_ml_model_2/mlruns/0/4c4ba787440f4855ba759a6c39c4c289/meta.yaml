@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/4c4ba787440f4855ba759a6c39c4c289/artifacts
+end_time: 1672823467650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c4ba787440f4855ba759a6c39c4c289
+run_name: big-dolphin-546
+run_uuid: 4c4ba787440f4855ba759a6c39c4c289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672823466469
+status: 3
+tags: []
+user_id: hasmukh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/6d6d80814f4f4534993fe7f4df43282d/artifacts
+end_time: 1672823463909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d6d80814f4f4534993fe7f4df43282d
+run_name: adaptable-fish-666
+run_uuid: 6d6d80814f4f4534993fe7f4df43282d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672823462731
+status: 3
+tags: []
+user_id: hasmukh

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_3/mlruns/0/444f653040654e739d8dd920a2f4550d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 444f653040654e739d8dd920a2f4550d
+run_name: serious-grouse-75
+run_uuid: 444f653040654e739d8dd920a2f4550d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672829505850
+status: 1
+tags: []
+user_id: hasmukh

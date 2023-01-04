@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/f15cd381d91e44dea06c61aa066a7c13/artifacts
+end_time: 1672823449121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f15cd381d91e44dea06c61aa066a7c13
+run_name: shivering-elk-882
+run_uuid: f15cd381d91e44dea06c61aa066a7c13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672823447955
+status: 3
+tags: []
+user_id: hasmukh

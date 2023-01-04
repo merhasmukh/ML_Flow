@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_3/mlruns/0/04874372677b42b1b1d4e594a11f2a40/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04874372677b42b1b1d4e594a11f2a40
+run_name: big-fowl-91
+run_uuid: 04874372677b42b1b1d4e594a11f2a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672826012727
+status: 1
+tags: []
+user_id: hasmukh

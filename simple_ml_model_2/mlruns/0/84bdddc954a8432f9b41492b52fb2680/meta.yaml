@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/84bdddc954a8432f9b41492b52fb2680/artifacts
+end_time: 1672823516505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84bdddc954a8432f9b41492b52fb2680
+run_name: unleashed-tern-187
+run_uuid: 84bdddc954a8432f9b41492b52fb2680
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672823515066
+status: 3
+tags: []
+user_id: hasmukh

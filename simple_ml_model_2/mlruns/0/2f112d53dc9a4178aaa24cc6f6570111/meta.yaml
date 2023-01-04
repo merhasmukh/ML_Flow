@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/2f112d53dc9a4178aaa24cc6f6570111/artifacts
+end_time: 1672823479609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f112d53dc9a4178aaa24cc6f6570111
+run_name: intrigued-quail-156
+run_uuid: 2f112d53dc9a4178aaa24cc6f6570111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672823478067
+status: 3
+tags: []
+user_id: hasmukh

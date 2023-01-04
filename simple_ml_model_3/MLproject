@@ -1,0 +1,10 @@
+name: mlflow_tutorial
+
+python_env: python_env.yaml
+
+entry_points:
+  main:
+    parameters:
+      alpha: {type: fload,default: 0.5}
+      l1_ratio: {type: fload,default: 0.5}
+    command: "python3 simple_ml_model_2.py -a {alpha} -l1 {l1_ratio}"

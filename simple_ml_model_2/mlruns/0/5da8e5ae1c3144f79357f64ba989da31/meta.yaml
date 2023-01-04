@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/5da8e5ae1c3144f79357f64ba989da31/artifacts
+end_time: 1672823445260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da8e5ae1c3144f79357f64ba989da31
+run_name: melodic-snake-590
+run_uuid: 5da8e5ae1c3144f79357f64ba989da31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672823444102
+status: 3
+tags: []
+user_id: hasmukh

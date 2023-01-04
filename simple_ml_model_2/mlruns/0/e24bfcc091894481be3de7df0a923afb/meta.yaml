@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/e24bfcc091894481be3de7df0a923afb/artifacts
+end_time: 1672823520491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e24bfcc091894481be3de7df0a923afb
+run_name: stylish-hare-694
+run_uuid: e24bfcc091894481be3de7df0a923afb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672823519131
+status: 3
+tags: []
+user_id: hasmukh

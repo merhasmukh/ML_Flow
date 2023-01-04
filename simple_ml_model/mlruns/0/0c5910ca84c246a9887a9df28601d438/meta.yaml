@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model/mlruns/0/0c5910ca84c246a9887a9df28601d438/artifacts
+end_time: 1672818693185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c5910ca84c246a9887a9df28601d438
+run_name: upset-sponge-31
+run_uuid: 0c5910ca84c246a9887a9df28601d438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672818693172
+status: 3
+tags: []
+user_id: hasmukh

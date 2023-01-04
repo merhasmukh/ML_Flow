@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/1c5c0dcccb3f41eda47aa5c52b584d44/artifacts
+end_time: 1672822792510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c5c0dcccb3f41eda47aa5c52b584d44
+run_name: nebulous-mouse-935
+run_uuid: 1c5c0dcccb3f41eda47aa5c52b584d44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672822791253
+status: 3
+tags: []
+user_id: hasmukh

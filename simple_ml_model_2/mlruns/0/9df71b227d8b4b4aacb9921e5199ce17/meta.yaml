@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hasmukh/Desktop/Github/ML_Flow/simple_ml_model_2/mlruns/0/9df71b227d8b4b4aacb9921e5199ce17/artifacts
+end_time: 1672823438292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9df71b227d8b4b4aacb9921e5199ce17
+run_name: exultant-frog-385
+run_uuid: 9df71b227d8b4b4aacb9921e5199ce17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672823437149
+status: 3
+tags: []
+user_id: hasmukh
